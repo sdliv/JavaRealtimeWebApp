@@ -1,0 +1,5 @@
+com\mycompany\webapp1\Task.class
+com\mycompany\webapp1\TaskService.class
+com\mycompany\webapp1\TaskExecutor.class
+com\mycompany\webapp1\TaskStatus.class
+com\mycompany\webapp1\TaskController.class
